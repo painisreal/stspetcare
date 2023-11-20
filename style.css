@@ -135,7 +135,7 @@ nav a:hover{color: var(--orange);}
 
 .flex_f{
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
 }
 
 /* HELP SECTION =========*/
